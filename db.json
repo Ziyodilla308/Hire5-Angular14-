@@ -1,0 +1,24 @@
+{
+  "profileTypes": [
+    {
+      "id": "ae0d",
+      "code": 1,
+      "name": "furniture"
+    },
+    {
+      "id": "daf8",
+      "code": 2,
+      "name": "equipment"
+    },
+    {
+      "id": "562e",
+      "code": 3,
+      "name": "stationary"
+    },
+    {
+      "id": "2dae",
+      "code": 4,
+      "name": "part"
+    }
+  ]
+}
