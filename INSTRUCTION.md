@@ -3,7 +3,15 @@
 ## Project Overview
 This is an Angular 19 project that requires specific setup steps to install dependencies and run properly. This README provides instructions on how to set up and run the project.
 
+
+
 ## Prerequisites
+# Project GitHub Repository
+
+The source code is located in the [prod branch](https://github.com/Ziyodilla308/Hire5-Angular14-/tree/prod) of the repository. Follow the steps below to clone the code and proceed with the installation.
+
+---
+
 Before you begin, ensure you have the following installed:
 
 - **Google Chrome** (for installing NVM)
